@@ -1,0 +1,15 @@
+{
+    "name": "morpheus",
+    "job": ["Tester","Developer","Support"],
+    "Cars":[
+    		{"Brand":"Maruti",
+    		 "Model":"Ciaz"
+    		},
+    		{"Brand":"Hyundai",
+    		 "Model":"Creta"
+    		},
+    		{"Brand":"Tata",
+    		 "Model":"Nexon"
+    		}
+    	   ]
+}
